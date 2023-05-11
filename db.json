@@ -145,5 +145,47 @@
             "title":"Yellow Printed Kaftan Style",
             "price":998
         }
+    ],
+    "stores":[
+        {
+            "image":"http://lh3.googleusercontent.com/9ObthFmAMkQ-gkpSgE5D52_wVa7gTGDQNK9aSy5VLW617hjuK_8xvPJLPJGmGCrGcF-od6atsAAYahxEBQGB2UE4JJaN",
+            "title":"MANISHAS BAKERY 24x7",
+            "distance":"0.94KM"
+        },
+        {
+            "image":"http://lh3.googleusercontent.com/mcQJiWzBipp4HtPe2PU5J7ylbwMaEWuNRwZ99vJDdxy_R89qvwzrdZ3CjzVSf4LjpatDmWpkIeJiMKY1ZwadT0vDzfQV",
+            "title":"PUNJABI GRILL",
+            "distance":"0.94KM"
+        },
+        {
+            "image":"http://lh3.googleusercontent.com/P4O79x1nhcCe64dhl6v4HBMPrSuNf-0PGU5nuKYJ2QuDBg6ZpoGw38kv3DZWXfTzxf_KsAt80stKncDCx8oQwi4XgQ",
+            "title":"DA PIZZA YUM",
+            "distance":"0.99KM"
+        },
+        {
+            "image":"https://lh3.googleusercontent.com/wZzuX6nuUmXmbkAa8ccmAdhGxACmo1ys9-MUcop5Gw9MZU-PfU2vprnFt4qOwUz0B5Hsd2km3EfvuxkfFdcYfX4oLdoZAFMQccBEEARz",
+            "title":"THE GOOD BOWL",
+            "distance":"1.12KM"
+        },
+        {
+            "image":"https://www.uengage.in/images/addo/logos/image-1670933552.jpg",
+            "title":"SCOOP ZONE RESTAURANT",
+            "distance":"0.57KM"
+        },
+        {
+            "image":"https://lh3.googleusercontent.com/oaXVpSfGQNsqx8-_TvrbRaPdgOLdbI52-dZlEzeXqU1c0N-fG3n_iZ23_wvhjSfopSXjkG1OSOMTb_WFNmS2MKApCiCzVcc4-zdTeBV5",
+            "title":"CHILLI PILLI",
+            "distance":"0.82KM"
+        },
+        {
+            "image":"http://lh3.googleusercontent.com/D3YM0j5qwFL6YXNBpS1yOfVCTC_r-NmdrTtZBeIJmXCUKHT9s5yB7-ypmHnjA2ZfxziVtOk91VRczV990acaoCoj5i3QQ5bfpRvW0P4",
+            "title":"NYC FooDIES",
+            "distance":"0.93KM"
+        },
+        {
+            "image":"http://lh3.googleusercontent.com/dnc-pYvp-dz8zyltQhoJ85PUVZtcD_8I1RQKLCI7SrbrEPDrbMXlHzLTdXkaS9pa_ci1YD6wqXipEQAhYyQ_-nWV-Dk",
+            "title":"BEAR BURGER",
+            "distance":"1.31KM"
+        }
     ]
 }
