@@ -231,6 +231,12 @@
             "quantity":0
         }
     ],
+    "login":[
+        {
+            "email":"abc@gmail.com",
+            "password":"abc@123"
+        }
+    ],
     "stores":[
         {
             "image":"http://lh3.googleusercontent.com/9ObthFmAMkQ-gkpSgE5D52_wVa7gTGDQNK9aSy5VLW617hjuK_8xvPJLPJGmGCrGcF-od6atsAAYahxEBQGB2UE4JJaN",
