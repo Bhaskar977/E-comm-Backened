@@ -280,6 +280,9 @@
         }
     ],
     "Credentials":[
-        
+    {
+        "email":"abc@gmail.com",
+        "password":"abc@123"
+    }
     ]
 }
